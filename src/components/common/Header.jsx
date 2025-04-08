@@ -17,6 +17,9 @@ export default function Header() {
         <Link to="/" className="">
           Home
         </Link>
+        <Link to="/signup" className="">
+          회원가입
+        </Link>
         <Link to="/grid" className="">
           AgGrid 예제
         </Link>

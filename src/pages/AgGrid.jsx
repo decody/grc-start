@@ -8,7 +8,7 @@ import React, {
 import { createRoot } from "react-dom/client";
 import { AgGridReact } from "ag-grid-react"; // the AG Grid React Component
 import { DatePicker } from "antd";
-import "antd/dist/antd.css";
+// import "antd/dist/antd.css";
 
 import "ag-grid-community/styles/ag-grid.css"; // Core grid CSS, always needed
 import "ag-grid-community/styles/ag-theme-alpine.css"; // Optional theme CSS
